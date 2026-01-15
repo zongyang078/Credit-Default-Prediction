@@ -94,9 +94,13 @@ Both Logistic Regression coefficients and Random Forest feature importance indic
 
 ## Project Structure
 ├── data/        # Training and validation datasets
+
 ├── notebooks/   # Data preprocessing, modeling, and evaluation
+
 ├── report/      # Final project report (PDF)
+
 ├── figures/     # Key evaluation plots
+
 └── README.md
 
 
